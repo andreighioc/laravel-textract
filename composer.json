@@ -1,5 +1,5 @@
 {
-    "name": "nilgems/laravel-textract",
+    "name": "andreighioc/laravel-textract",
     "description": "A Laravel package to extract text from files like DOC, XL, Image, Pdf and more. I've developed this package by inspiring \"npm textract\".",
     "type": "library",
     "keywords": [
